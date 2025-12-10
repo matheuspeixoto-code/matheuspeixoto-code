@@ -3,7 +3,7 @@
 
 ## Ferramentas e tecnologias
 
-<div style="display: flex; gap: 40px;"> 
+<div style="display: flex; gap: 100px;"> 
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"/> 
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"/> 
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg"/> 
