@@ -1,21 +1,15 @@
 ## Hi there 👋
-<div align="center">
-
-  ![Stats](https://github-readme-stats.vercel.app/api?username=matheuspeixoto-code&show_icons=true&theme=tokyonight)
-
-</div>
 
 
 ## Ferramentas e tecnologias
 
-<div style="display: flex; gap: 20px;"> 
+<div style="display: flex; gap: 40px;"> 
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"/> 
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"/> 
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg"/> 
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/> 
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-          
           
 </div>
 
