@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/matheuspeixoto-code">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspeixoto-code&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuspeixoto-code&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspeixoto-code&layout=compact&langs_count=7&theme=dracula&sanitize=true"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuspeixoto-code&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&sanitize=true"/>
 </div>
 
 
@@ -12,10 +12,10 @@
 <div > 
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"/> &nbsp;&nbsp;&nbsp;
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"/> &nbsp;&nbsp;&nbsp;
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg"/> &nbsp;&nbsp;&nbsp;
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/> &nbsp;&nbsp;&nbsp;
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;&nbsp;
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
+  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg"/> &nbsp;&nbsp;&nbsp;
+  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/> &nbsp;&nbsp;&nbsp;
+  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
           
 </div>
 
