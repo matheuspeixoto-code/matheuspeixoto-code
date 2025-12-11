@@ -29,8 +29,9 @@
   
 
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuspeixoto-code&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspeixoto-code&layout=compact&theme=dracula"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dracula&hide_border=true" alt="GitHub Streak" />
+    <br/><br/>
+    <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
   </div>
 
   <br/>
