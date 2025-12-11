@@ -1,19 +1,49 @@
-## Matheus Peixoto
+<div align="center">
+  
+  ## Olá, eu sou o Matheus Peixoto! 👋
+  
+  <h3>Desenvolvedor Backend</h3>
 
-## Ferramentas e tecnologias
+  <p>
+    Profissional dedicado à construção e manutenção de sistemas backend utilizando Java e TypeScript.
+    Experiência prática na arquitetura de microsserviços, modelagem de banco de dados MySQL 
+    e containerização de aplicações para ambientes de produção.
+  </p>
 
-<div > 
-  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"/> &nbsp;&nbsp;&nbsp;
-  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"/> &nbsp;&nbsp;&nbsp;
-  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg"/> &nbsp;&nbsp;&nbsp;
-  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/> &nbsp;&nbsp;&nbsp;
-  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;&nbsp;
-  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
-          
-</div>
+  ---
 
-## Contatos:
-<div>
-  <a href = "mailto:peixotomatheus.dev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-peixoto-code" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  ## 🚀 Ferramentas e Tecnologias
+
+  <div style="display: inline_block"> 
+    <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+    <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+    <img align="center" alt="Insomnia" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"/>
+    <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+    <img align="center" alt="TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  </div>
+
+  <br/>
+
+  ## 📊 Estatísticas
+  
+
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-peixoto-code&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-peixoto-code&layout=compact&theme=dracula"/>
+  </div>
+
+  <br/>
+
+  ## 📫 Contatos
+
+  <div>
+    <a href="mailto:peixotomatheus.dev@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+    </a>
+    <a href="https://www.linkedin.com/in/matheus-peixoto-code" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>   
+  </div>
+
 </div>
