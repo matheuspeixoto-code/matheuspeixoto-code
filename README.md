@@ -25,16 +25,6 @@
 
   <br/>
 
-  ## 📊 Estatísticas
-  
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=matheuspeixoto-code&theme=dracula&hide_border=true" alt="GitHub Streak" />
-    <br/><br/>
-    
-  </div>
-
-  <br/>
 
   ## 📫 Contatos
 
