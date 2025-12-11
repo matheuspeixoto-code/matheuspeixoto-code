@@ -6,7 +6,7 @@
 
   <p>
     Profissional dedicado à construção e manutenção de sistemas backend utilizando Java e TypeScript.
-    Experiência prática na arquitetura de microsserviços, modelagem de banco de dados MySQL 
+    Buscando experiência prática na arquitetura de microsserviços, modelagem de banco de dados MySQL 
     e containerização de aplicações para ambientes de produção.
   </p>
 
