@@ -29,9 +29,9 @@
   
 
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dracula&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheuspeixoto-code&theme=dracula&hide_border=true" alt="GitHub Streak" />
     <br/><br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+    <img src="https://github-profile-trophy.vercel.app/?username=matheuspeixoto-code&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
   </div>
 
   <br/>
