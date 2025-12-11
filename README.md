@@ -1,10 +1,5 @@
 ## Matheus Peixoto
 
-<div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuspeixoto-code)](https://github.com/matheuspeixoto-code/github-readme-stats)
-</div>
-
-
 ## Ferramentas e tecnologias
 
 <div > 
