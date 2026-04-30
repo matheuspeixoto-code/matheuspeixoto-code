@@ -1,6 +1,6 @@
 <div align="center">
   
-  ## Olá, eu sou o Matheus Peixoto! 👋
+  ## Olá, eu sou o Matheus Peixoto!
   
   <h3>Desenvolvedor Backend</h3>
 
@@ -11,23 +11,22 @@
 
   ---
 
-  ## 🚀 Ferramentas e Tecnologias
+  ## Ferramentas e Tecnologias
 
-  <div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
-    <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />   
-    <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />     
-    <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"/>
-    <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-    <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-    <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  </div>
+  <p align="center">
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg"/>
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  </p>
 
 
   <br/>
 
 
-  ## 📫 Contatos
+  ## Contatos
 
   <div>
     <a href="mailto:peixotomatheus.dev@gmail.com">
